@@ -15,12 +15,13 @@ namespace Snake
             p1.Draw();
 
             Point p2 = new Point(4, 5, '#');
-            p2.x = 3;
-            p2.y = 4;
-            p2.sym = '#';
+           
             p2.Draw();
            
             Console.ReadLine();
+            List<Point> pList = new List<Point>();
+            pList.Add(p1);
+            pList.Add(p2);
         }
   
 
