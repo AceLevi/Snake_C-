@@ -1,0 +1,2 @@
+C:\Users\Настя\AppData\Local\Temporary Projects\Snake\bin\Debug\Snake.exe.config
+C:\Users\Настя\Desktop\Snake_C-\Snake\Snake\bin\Debug\Snake.exe.config
